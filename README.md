@@ -6,4 +6,5 @@
 [Прочая информация...](https://github.com/dkxce/HG-UV98)     
 
 <img src="Manual - Keys.png"/>  
-<img src="Manual - Display.png"/>
+<img src="Manual - Display.png"/>   
+<img src="Antenna.gif"/>
