@@ -19,7 +19,7 @@
 ![@](/APRS_Screens/006.png)   
 
 **Метео данные**:   
-<img src="/APRS_Screens/WX.jpg" width="260"/><img src="/APRS_Screens/WX2.jpg" width="260"/>
+<img src="/APRS_Screens/WX1.gif" width="260"/><img src="/APRS_Screens/WX2.gif" width="260"/>
  
 **Формат пакета метеоданных HG-UV98**
 ```
